@@ -1,1 +1,0 @@
-/var/www/siteTech/departement.php
